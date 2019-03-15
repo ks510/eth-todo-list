@@ -13,7 +13,8 @@
       ],
       "payable": false,
       "stateMutability": "view",
-      "type": "function"
+      "type": "function",
+      "signature": "0xb6cb58a5"
     }
   ],
   "bytecode": "0x608060405260008055348015601357600080fd5b50609e806100226000396000f3fe608060405260043610603f576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff168063b6cb58a5146044575b600080fd5b348015604f57600080fd5b506056606c565b6040518082815260200191505060405180910390f35b6000548156fea165627a7a723058205895919acd4688e96e31031aef2542316215617e70fb7d8e7c72215804a0018a0029",
@@ -194,9 +195,16 @@
     "name": "solc",
     "version": "0.5.0+commit.1d4f565a.Emscripten.clang"
   },
-  "networks": {},
+  "networks": {
+    "5777": {
+      "events": {},
+      "links": {},
+      "address": "0x5C3B6d3016FDeC45A8ed33d11988F98941b73886",
+      "transactionHash": "0x13914304adfbb8660183e031d7c996a642e522d54baae566f16869672d40d582"
+    }
+  },
   "schemaVersion": "3.0.2",
-  "updatedAt": "2019-03-15T16:58:25.568Z",
+  "updatedAt": "2019-03-15T17:36:07.105Z",
   "devdoc": {
     "methods": {}
   },
